@@ -38,7 +38,7 @@ Please note that there is a workaround for playing a playlist in place which is 
 
 VIDEOGOESHERE
 
-Get it [here](https://s.carl.al/2K2cT7Q)!
+Get it [here](https://s.carl.al/2K2Oq2f)!
 
 
 ## Show your most recently played object in Spotify (doesn't autoplay it)
@@ -48,7 +48,7 @@ Spotify Radios and the Daily Mixes will only redirect you to the track that was 
 
 VIDEOGOESHERE
 
-Get it [here](https://s.carl.al/2K4BJ6P)!
+Get it [here](https://s.carl.al/2mMs8bQ)!
 
 
 ## More Workflows are coming...
