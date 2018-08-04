@@ -1,9 +1,9 @@
 ## Introduction
-As most of you probably know workflow already lets you create custom voice commands for Siri in the iOS 12 Developer/Public Beta. 
+As most of you probably know Workflow already lets you create custom voice commands for Siri in the iOS 12 Developer/Public Beta. 
 
-I was working on a few workflows which allow for some rudimentary control of Spotify. It allows you to play the playlist you played last right from Siri e.g. you could ask Siri "Play Spotify" and the workflow will play whatever you last played in your Spotify account. The other workflow I came up with is to just show the last last playlist/song/album/radio was last played in Spotify. 
+I was working on a few workflows which allow for some rudimentary control of Spotify. It allows you to play the playlist you played last right from Siri e.g. you could ask Siri "Play Spotify" and the workflow will play whatever you last played in your Spotify account. The other workflow I came up with is to just show the last playlist/song/album/radio was last played in Spotify. 
 
-All this relies on the Spotify Web API as you can't work with the Spotify app directly. This means that there will most likely be times where the workflow behaves unexpectedly or plays a track/playlist that was played several minutes ago and the client has not yet synced back to the Spotify backend.
+All this relies on the Spotify Web API as you can't work with the Spotify app directly. This means that there will most likely be times where the Workflows behave unexpectedly or plays a track/playlist that was played several minutes ago and the client has not yet synced back to the Spotify backend.
 An internet connection is required for the Workflows to work.
 
 
@@ -12,7 +12,7 @@ To set up any of the Workflows you first need to get a so called refresh token w
 
 Why not use the authorization token or access token directly? Easy, both of them will expire within one hour after they have been issued by Spotify. The refresh token won't expire and can be used to ask Spotify for new access tokens.
 
-To get the refresh token you need to install [this workflow](https://s.carl.al/2No3hX6) and run it.
+To get the refresh token you need to install [this workflow](https://s.carl.al/2OK7Lca) and run it.
 
 It will ask you to authenticate with Spotify and then generates a refresh token which it copies to your devices clipboard. When you install any of the Workflows that actually interact with Spotify the Workflow app will ask you for the code while installing the Workflow so generate the refresh token in advance.
 
