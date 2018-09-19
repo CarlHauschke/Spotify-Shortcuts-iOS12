@@ -1,7 +1,7 @@
 ## Introduction
 As most of you probably know Workflow already lets you create custom voice commands for Siri in the iOS 12 Developer/Public Beta. 
 
-I was working on a few workflows which allow for some rudimentary control of Spotify. It allows you to play the playlist you played last right from Siri e.g. you could ask Siri "Play Spotify" and the workflow will play whatever you last played in your Spotify account. The other workflow I came up with is to just show the last playlist/song/album/radio was last played in Spotify. 
+I was working on a few Workflows which allow for some rudimentary control of Spotify. It allows you to play the playlist you played last right from Siri e.g. you could ask Siri "Play Spotify" and the workflow will play whatever you last played in your Spotify account. The other Workflow I came up with so far is to just show the last playlist/song/album/radio was last played in Spotify. 
 
 All this relies on the Spotify Web API as you can't work with the Spotify app directly. This means that there will most likely be times where the Workflows behave unexpectedly or plays a track/playlist that was played several minutes ago and the client has not yet synced back to the Spotify backend.
 An internet connection is required for the Workflows to work.
@@ -20,7 +20,7 @@ GETREFRESHTOKENVIDEO
 
 With the refresh token in the clipboard you can now download the Workflows listed below to control Spotify. During the installation they will ask you for the refresh token and in some cases for some additional information.
 
-INSTALLVIDEO
+SETUPVIDEO
 
 To set up a Siri shortcut you have to use the Workflow at least once from within the Workflow app for Siri to recognize the Workflow and present you with the Shortcut setup inside of the Settings app.
 
