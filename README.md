@@ -13,7 +13,7 @@ An internet connection is required for the Shortcuts to work.
 
 
 ## Installation
-For the installation install [this setup Shortcut for iOS 12](https://s.carl.al/2Oxczkq) and [this setup Shortcut for iOS 13](https://s.carl.al/2MSdUTl). 
+For the installation install [this setup Shortcut for iOS 12](https://s.carl.al/2Oxczkq) and [this setup Shortcut for iOS 13](https://s.carl.al/32uxWtx). 
 
 The installation Shortcut will guide through the authentication with Spotify and the installation of the other Shortcuts.
 Every time you execute the installation Shortcut it lets you choose one Shortcut to set up.
