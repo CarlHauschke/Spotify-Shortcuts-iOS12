@@ -1,3 +1,10 @@
+## This repository is deprecated
+I stopped working on these Shortcuts.
+If you want to continue working on these shortcuts you should fork the master branch and not the deprecated branch.
+I removed the entire update mechanism from the Shortcuts in the deprecated branch to at least get them to install on iOS 13 since iOS 13 does not allow for Shortcuts files to be installed. 
+I haven't tested them on iOS 13 and there may be other things not working on iOS 13 since I don't have any devices running iOS 13 at the moment.
+I similar project for iOS 13 is currently in the works with the name of [Shortcutify](https://shortcutify.app). Feel free to check out this project. This project is in no way affiliated by me.
+
 ## Introduction
 I was working on a few Shortcuts which allow control of Spotify with the help of Siri snd Shortcuts. It allows you to play the playlist you played last right from Siri e.g. you could ask Siri "Play Spotify" and the Shortcut will play whatever you last played in your Spotify account or to add the currently playing track to your Favorites. 
 
@@ -6,12 +13,24 @@ An internet connection is required for the Shortcuts to work.
 
 
 ## Installation
-For the installation install [this setup Shortcut](https://s.carl.al/2Oxczkq). 
+For the installation install [this setup Shortcut for iOS 12](https://s.carl.al/2Oxczkq) and [this setup Shortcut for iOS 13](https://s.carl.al/2BmdlvG). 
 
 The installation Shortcut will guide through the authentication with Spotify and the installation of the other Shortcuts.
 Every time you execute the installation Shortcut it lets you choose one Shortcut to set up.
 
 INSTALLSHORTCUTVIDEO
+
+
+## Manual Download links
+[Play Spotify](https://s.carl.al/2BpGdTK)
+[Last played object](https://s.carl.al/35Nif2I)
+[Add to favorites](https://s.carl.al/2J4v3Ie)
+[Skip Track](https://s.carl.al/31wVs8h)
+[Add track to playlist](https://s.carl.al/31q1JCr)
+[Play Item](https://s.carl.al/2o25eS0)
+[Share Song](https://s.carl.al/2oVGGud)
+[Search Spotify](https://s.carl.al/2BoZsNu)
+[Search for Lyrics](https://s.carl.al/2BpGN40)
 
 
 ## Setting up the Siri command
